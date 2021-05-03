@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Teun0413
-- 👀 Not sure what I'm doing on Github
-- 📫 Contact me at info@teunb.space
+- 👋 Hi, I’m @Systematic01
+- 👀 No clue what I'm doing here
+- 📫 Contact me at info@whot.space
 
 <!---
 Teun0413/Teun0413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
