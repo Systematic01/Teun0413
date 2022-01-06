@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Systematic01
-- 👀 No clue what I'm doing here
-- 📫 Contact me at cc@adrugs.pro
+I am Systematic01, a Dutch Developer who uses both frontend as backend. 
+Currently I understand PHP/HTML/CSS and a bit of JS & PY. In the future I wish to become a much more experienced developer.
 
-<!---
-Teun0413/Teun0413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you need help with your projects then just let me know :D
